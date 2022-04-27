@@ -1,6 +1,8 @@
 {
   "version": 2,
   "projects": {
+    "components": "libs/components",
+    "components-e2e": "apps/components-e2e",
     "next-blog-nx": "apps/next-blog-nx",
     "next-blog-nx-e2e": "apps/next-blog-nx-e2e"
   }
