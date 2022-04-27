@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "next-blog-nx": "apps/next-blog-nx",
+    "next-blog-nx-e2e": "apps/next-blog-nx-e2e"
+  }
+}
